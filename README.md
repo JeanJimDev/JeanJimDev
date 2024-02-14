@@ -35,7 +35,8 @@ I'm a Computer Systems Engineering who is passionate about writing code, solving
 
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-Y alguna más...
+
+and some more...
 
 ## Connect with me:
 

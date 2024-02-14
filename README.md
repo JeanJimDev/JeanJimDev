@@ -28,8 +28,6 @@ I'm a computer sistems who is passionate about writing code, solving problems an
 
 ## 🛠️ My Tech Stack
 
-
-</br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()

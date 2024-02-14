@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hello there, I'm Jean Jiménez 👋
 
 
-I'm a computer sistems who is passionate about writing code, solving problems and building software.
+I'm a Computer Systems Engineering who is passionate about writing code, solving problems and building software.
 
 - 💻 I ~like~ **love** coding
 - 📗 I’m currently learning backend development
@@ -46,8 +46,6 @@ I'm a computer sistems who is passionate about writing code, solving problems an
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </br>
 Y alguna más...
-
-## 📈 My GitHub Stats
 
 ## 📫 How to reach me
 
